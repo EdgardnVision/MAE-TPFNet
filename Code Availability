@@ -1,0 +1,13 @@
+## Code Availability
+
+This repository has been created to support the reproducibility of the manuscript.  
+Since the manuscript is currently under review, the full implementation has not been publicly released at this stage.
+
+Upon acceptance or publication, we will release:
+- the implementation of MAE-TPFNet;
+- the customized modules, including STPA, ST-CSA, and GAF-Head;
+- training and testing configuration files;
+- preprocessing and evaluation scripts;
+- instructions for reproducing the reported experiments.
+
+The repository will be continuously updated.
