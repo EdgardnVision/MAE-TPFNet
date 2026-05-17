@@ -9,11 +9,7 @@ MAE-TPFNet is a clip-level video recognition framework for pole-state recognitio
 
 Surveillance videos during distribution network construction are often affected by persistent occlusion, strong linear background interference, camera shake, motion blur, and frame loss. These factors weaken pole-posture cues and increase the confusion among Normal, Tilt, and Falling states.
 
-To address this issue, MAE-TPFNet is built on VideoMAEv2 and introduces three customized components:
 
-- **STPA**: Spatiotemporal Perturbation Augmentation for simulating construction-related imaging degradation and temporal instability during training.
-- **ST-CSA**: Spatiotemporal Coordinate Stripe Attention for enhancing directional structural responses and refocusing attention on slender pole regions.
-- **GAF-Head**: Geometry-Assisted Fusion Head for incorporating geometric statistical cues and improving the discrimination of boundary samples.
 
 ## Task Definition
 
